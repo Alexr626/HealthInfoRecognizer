@@ -26,7 +26,7 @@ from sklearn.model_selection import train_test_split
 train_data, test_data = train_test_split(data['Context'], test_size=0.2, random_state=42)
 
 # Iterate over the random subset and run the code
-for context in random_subset:
+for context in test_data:
     system_message = """
         You are a world class state of the art agent. Your purpose is to correctly complete this task :
     `Return the list of  medicines that the user is taking and the discription  to complete the task ` These are the guidelines you consider when completing
@@ -90,8 +90,13 @@ for context in random_subset:
     #
     # Save the output with "context, and then medicines" to a json file
     output = {"context": context, "medicines": function_call_arguments['medicines']}
+    try:
+        with open('output.json', 'r') as json_file:
+            data = json.load(json_file)
+            data.append(output)
+    except (FileNotFoundError, json.JSONDecodeError):
+        data = [output]
+
     with open('output.json', 'w') as json_file:
-        json.dump(output, json_file)
-    
-    
+        json.dump(data, json_file)
 

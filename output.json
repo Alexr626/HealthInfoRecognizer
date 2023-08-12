@@ -1,25 +1,2187 @@
-{
-    "context": "2. Aspirin 81 mg p.o. q. day. 3. Lisinopril 20 mg p.o. q. day. 4. Metoprolol 50 mg p.o. b.i.d. 5. Niacin OTC 100 mg p.o. b.i.d. 6. He is now on IV diltiazem as well. He has not received heparin. REVIEW OF SYSTEMS: Complete review of systems was performed and is negative except as noted above in history of present illness.",
-    "medicines": [
-      {
-        "medication": "Aspirin",
-        "status": "active"
-      },
-      {
-        "medication": "Lisinopril",
-        "status": "active"
-      },
-      {
-        "medication": "Metoprolol",
-        "status": "active"
-      },
-      {
-        "medication": "Niacin",
-        "status": "active"
-      },
-      {
-        "medication": "Diltiazem",
-        "status": "active"
-      }
-    ]
-  }
+[
+    {
+      "context": "Seroquel has not worked. Multiple antidepressants have not worked. The patient reports that he moved in with a gal after his divorce and she basically tells him that alcohol will take his problems away. The patient does try to attend NA and AA meetings, but reports that benzodiazepines are must. The patient experiences frequent panic attacks for a long time. He could not drive a car or even go to the grocery store.",
+      "medicines": [
+        {
+          "medication": "Seroquel",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Multiple antidepressants",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Alcohol",
+          "status": "active"
+        },
+        {
+          "medication": "Benzodiazepines",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She will be discharged on prednisone 1 mg/kg although it is of note that she has been quite steroid refractory throughout her ITP course. Four rituximab infusions are planned. The patient understands that she should be seen in the nearest emergency room should she have any recurrence of bleeding.",
+      "medicines": [
+        {
+          "medication": "prednisone",
+          "status": "active"
+        },
+        {
+          "medication": "rituximab",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "The patient was instructed to stop taking her aspirin today, continue with her other medications. Her hemoglobin was 14.0, potassium pending. EKG showed a normal sinus rhythm with rapid R-wave progression and a Q-wave in AVR.",
+      "medicines": [
+        {
+          "medication": "Aspirin",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Other Medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "While at _%#CITY#%_ Program, the client took part in daily community groups, 2 hours of on site schooling per day, asset building groups 3 x a week, weekly spirituality groups, on and off site AA and NA meetings, and daily group therapy sessions. Additionally, the client took part in three day family program with mother and father. SIGNIFICANT EVENTS: At admission the client appeared somewhat reserved and apprehensive about starting treatment program.",
+      "medicines": [
+        {
+          "medication": "unknown",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "The patient did require O2 during her hospitalization and will be discharged to home with oxygen therapy to help ease her breathing. The patient also had a chest x-ray performed on _%#MMDD2007#%_ that was negative for pneumothorax. RT was consulted and attempts to provide recommendations for symptomatic control. They recommended oxygen and morphine for her air hunger symptoms. PROBLEM #10: Prophylaxis: The patient was encouraged to wear Pneumoboots while in bed.",
+      "medicines": [
+        {
+          "medication": "ANONYMIZED_US_DRIVER_LICENSE_0",
+          "status": "active"
+        },
+        {
+          "medication": "oxygen",
+          "status": "active"
+        },
+        {
+          "medication": "morphine",
+          "status": "active"
+        },
+        {
+          "medication": "Pneumoboots",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "DISCHARGE MEDICATIONS: 1. Zofran 8 mg q8h as needed. 2. Compazine 10 mg q6h as needed. 3. Atenolol 12.5 mg daily. 4. Glucotrol XL 5 mg daily. 5. ASA 325 mg daily. 6. Synthroid 100 mcg daily. 7. Magnesium oxide two tablets b.i.d. 8. Acifex 20 mg daily. Dr. _%#NAME#%_, the patient's primary physician, will monitor the patient's creatinine and restart her Lasix after recovery of her renal insufficiency.",
+      "medicines": [
+        {
+          "medication": "Zofran 8 mg q8h as needed",
+          "status": "active"
+        },
+        {
+          "medication": "Compazine 10 mg q6h as needed",
+          "status": "active"
+        },
+        {
+          "medication": "Atenolol 12.5 mg daily",
+          "status": "active"
+        },
+        {
+          "medication": "Glucotrol XL 5 mg daily",
+          "status": "active"
+        },
+        {
+          "medication": "ASA 325 mg daily",
+          "status": "active"
+        },
+        {
+          "medication": "Synthroid 100 mcg daily",
+          "status": "active"
+        },
+        {
+          "medication": "Magnesium oxide two tablets b.i.d",
+          "status": "active"
+        },
+        {
+          "medication": "Acifex 20 mg daily",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "1. SLE. The initial screening test demonstrated possible kidney involvement with large blood and a normal protein and creatinine ratio of 0.12. Direct antiglobulin test was normal. ANA was positive at greater than 10. ENA antibodies were all normal. Double-stranded DNA was positive at 40,40. C3 and C4 were low with C3 being 43 and C4 being 5. Rheumatoid factor was less than 20. Neuronal nuclear antibody panel was less than 10.",
+      "medicines": [
+        {
+          "medication": "Steroids",
+          "status": "active"
+        },
+        {
+          "medication": "Hydroxychloroquine",
+          "status": "active"
+        },
+        {
+          "medication": "Immunosuppressants",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "4. Repeat head CT without contrast _%#MM#%_ _%#DD#%_, 2006. No interval change. Finding of scleral buckle of the right eye globe. 5. MRI of brain _%#MM#%_ _%#DD#%_, 2006. Findings: Focal areas of T2 hyperintensity within the subcortical white matter centrum semiovale and periventricular white matter consistent with small vessel ischemic disease. No evidence of acute infarction. Right A1 segment hypoplasia versus stenosis.",
+      "medicines": [
+        {
+          "medication": "head CT without contrast",
+          "status": "active"
+        },
+        {
+          "medication": "MRI of brain",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "The serum screen was drawn _%#MMDD2007#%_. At the time, your patient was 16.3 week's gestation. o AFP=3.02 MOM o Estriol= 2.68 MOM o HCG= 0.6 MOM o DIA= 0.8 MOM * Adjusted risk for Down syndrome=<1:5000 * Adjusted risk for Trisomy 18=<1:5000 * Adjusted risk for ONTD=1:114 Screen positive * We discussed possible explanations for an abnormal serum screen including inconsistencies in pregnancy dating, normal variations in the levels of these chemicals, and the possibility of open neural tube defects.",
+      "medicines": [
+        {
+          "medication": "serum screen",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "PAST MEDICAL HISTORY: Significant for multiple orthopaedic surgeries to his feet secondary to fall as well as a history of hypertension. MEDICATIONS ON ADMISSION: 1. Atenolol 50 mg p.o. daily. 2. Pepcid AC daily. ALLERGIES: No known drug allergies. SOCIAL HISTORY: He is a nonsmoker.",
+      "medicines": [
+        {
+          "medication": "Atenolol",
+          "status": "active"
+        },
+        {
+          "medication": "Pepcid AC",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "DEATH DIAGNOSES: 1. Acute myeloid leukemia (AML - M7), status post myeloablative triple umbilical cord transplant with natural killer cell therapy. 2. Diffuse alveolar hemorrhage. 3. Cardiorespiratory failure from diffuse alveolar hemorrhage. 4. Hemorrhagic cystitis (BK virus infection). 5. Cytomegalovirus viremia. 6. Probable fungal pneumonia. MAJOR PROCEDURES DONE DURING THIS ADMISSION: 1. On _%#MMDD2006#%_, the patient had a bone marrow biopsy, which was hypocellular with no evidence of leukemia.",
+      "medicines": []
+    },
+    {
+      "context": "She has not had any back pain. She is having pain in her hip just today but feels it is due to the increased as she has been seen by both OT and PT this morning. She denies any numbness in her hands or feet but does have a heavy or full sensation in her left leg so that her entire left leg does not feel the same as her right.",
+      "medicines": [
+        {
+          "medication": "Tylenol",
+          "status": "active"
+        },
+        {
+          "medication": "Ibuprofen",
+          "status": "active"
+        },
+        {
+          "medication": "Muscle Relaxant",
+          "status": "discontinued"
+        }
+      ]
+    },
+    {
+      "context": "We will draw CBC to follow up on leukopenia that was noted on _%#DDMM2006#%_, results of which are pending. _%#NAME#%_ _%#NAME#%_, PAC, also saw this patient and agrees with the assessment and plan.",
+      "medicines": [
+        {
+          "medication": "CBC",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "PHYSICAL EXAMINATION: GENERAL: Well-developed, well-nourished-appearing, alert, oriented white male in no acute distress. VITAL SIGNS: Stable. HEENT: C&S clear. Oropharynx benign. NECK: Without masses or adenopathy. LUNGS: Clear to auscultation and percussion CARDIAC: Regular rhythm, no murmurs, rubs, gallops.",
+      "medicines": []
+    },
+    {
+      "context": "o Age mid trimester Down syndrome risk= 1:320 o Age mid trimester risk for any chromosome condition=1:160 * We reviewed serum-screening results. The serum screen was drawn _%#MMDD2006#%_. At the time, your patient was 15.4 weeks gestation. o AFP=0.61 MOM o Estriol= 0.34 MOM o HCG= 0.81 MOM o DIA= 0.83 MOM * Adjusted risk for Down syndrome=1:503 * Adjusted risk for Trisomy 18=1:87 Screen positive * Adjusted risk for ONTD=<1:5000 * We discussed possible explanations for an abnormal serum screen including inconsistencies in pregnancy dating, normal variations in the levels of these chemicals, and the possibility of trisomy 18 in the current pregnancy.",
+      "medicines": [
+        {
+          "medication": "Down syndrome screening",
+          "status": "active"
+        },
+        {
+          "medication": "Trisomy 18 screening",
+          "status": "active"
+        },
+        {
+          "medication": "ONTD screening",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "HOSPITAL COURSE: The patient was transferred to Fairview University Transitional Services after inpatient stay. Please see discharge summary from hospitalization for details of that. In transitional services, she had PT, OT therapy. She was noted to have some hematoma on her incision site. She was also noted to have some anemia and was started on iron for it.",
+      "medicines": [
+        {
+          "medication": "iron",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She now desires and request repeat cesarean section at term and does not desire a trial of labor. Her antepartum course was essentially uncomplicated though she did give a history of a positive AMA in _%#MM#%_ of 2002, but subsequently had another AMA performed that was negative. She has been taking baby aspirin throughout her pregnancy and will stop this approximately 48 hours before surgery.",
+      "medicines": [
+        {
+          "medication": "baby aspirin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "MEDICATIONS: Synthroid 0.125 mcg p.o. q.d., Estratest, Zoloft 150 mg p.o. q.d. PHYSICAL EXAMINATION: The patient was alert and oriented, well appearing. Head was normocephalic. CV was regular rate and rhythm, mid-systolic click. Lungs were CTA bilaterally. Abdomen was soft, nontender, ileal conduit and colostomy bags. Bowel sounds present. Extremities: Pedal pulses positive bilaterally. Right medial thigh was erythematous and hard in comparison to the left.",
+      "medicines": [
+        {
+          "medication": "Synthroid 0.125 mcg p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Estratest",
+          "status": "active"
+        },
+        {
+          "medication": "Zoloft 150 mg p.o. q.d.",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She was given IV hydration and was started on Reglan 10 mg orally q.i.d. and a clear liquid diet. She is feeling significantly better this morning and is anxious to leave and said she would leave AMA if we did not discharge her. At this point she is comfortable and medically stable for discharge on Reglan 10 mg q.i.d., as well as Protonix 40 mg daily.",
+      "medicines": [
+        {
+          "medication": "Reglan 10 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Protonix 40 mg",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "4. Cymbalta 120 mg daily starting _%#MM#%_ _%#DD#%_, 2005, and thereafter. 5. Seroquel 25 mg daily at bedtime. 6. Lipitor 20 mg daily a.m. 7. Tricor 145 mg once daily. 8. ASA 325 mg daily. 9. Diovan 40 mg daily. 10. Toprol 25 mg every other day. 11. Protonix 40 mg one time daily.",
+      "medicines": [
+        {
+          "medication": "Cymbalta 120 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Seroquel 25 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Lipitor 20 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Tricor 145 mg",
+          "status": "active"
+        },
+        {
+          "medication": "ASA 325 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Diovan 40 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Toprol 25 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Protonix 40 mg",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She is a nonsmoker. She rarely drinks alcohol. REVIEW OF SYSTEMS: Please see HPI for details. No fevers or chills. No DVT or PE history. No cardiac history. No chest pain or shortness of breath. No dysuria symptoms or hematuria. Review of systems is otherwise negative for cardiovascular, respiratory, GI, renal, urinary, hematologic, integument, endocrine, musculoskeletal, neurologic, and cognitive complaints.",
+      "medicines": [
+        {
+          "medication": "nonsmoker",
+          "status": "active"
+        },
+        {
+          "medication": "rarely drinks alcohol",
+          "status": "active"
+        },
+        {
+          "medication": "no fevers or chills",
+          "status": "active"
+        },
+        {
+          "medication": "no DVT or PE history",
+          "status": "active"
+        },
+        {
+          "medication": "no cardiac history",
+          "status": "active"
+        },
+        {
+          "medication": "no chest pain or shortness of breath",
+          "status": "active"
+        },
+        {
+          "medication": "no dysuria symptoms or hematuria",
+          "status": "active"
+        },
+        {
+          "medication": "no cardiovascular complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no respiratory complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no GI complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no renal complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no urinary complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no hematologic complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no integument complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no endocrine complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no musculoskeletal complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no neurologic complaints",
+          "status": "active"
+        },
+        {
+          "medication": "no cognitive complaints",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She has experienced no right flank pain and is seeing no gross hematuria. EXAMINATION: The patient is afebrile. There is no CVA tenderness, and her abdomen is flat and nontender. ASSESSMENT: Possible right UPJ stone. This could be either calcium or uric acid.",
+      "medicines": [
+        {
+          "medication": "pain medication",
+          "status": "active"
+        },
+        {
+          "medication": "antibiotics",
+          "status": "discontinued"
+        },
+        {
+          "medication": "calcium supplement",
+          "status": "active"
+        },
+        {
+          "medication": "uric acid reducer",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "_%#NAME#%_'s maternal serum screen was obtained on _%#MMDD2006#%_ at 16 weeks' gestation and resulted in an AFP value of 0.49 MOM, an estriol value of 0.34 MOM, and an hCG value of 0.55 MOM. This increased the patient's chance of having a child with trisomy 18 from her age-related chance of 1 in 4629 to a newly adjusted chance of 1 in 81.",
+      "medicines": [
+        {
+          "medication": "maternal serum screen",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "For details of the history of present illness, review of systems and physical exam at the time of admission, please see the admission H&P from _%#MMDD2007#%_. HOSPITAL COURSE: 1. Fever. The patient was admitted to general medicine floor. The concern initially was for a C&S infection since the patient recently had a ventriculostomy hardware removal. His physical examination and laboratory workup did not confirm this suspicion.",
+      "medicines": [
+        {
+          "medication": "C&S infection",
+          "status": "discontinued"
+        },
+        {
+          "medication": "ventriculostomy hardware removal",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Contact the group home to confirm Lantus and NovoLog insulin dose as well as a diet. 3. Accu-Cheks q.i.d. AC and h.s. with Lantus/NovoLog coverage as per group home. 4. Continue Keflex 250 mg a q.i.d. for 5 days. Topical wound care as above. 5. Contact group home regarding tetanus status.",
+      "medicines": [
+        {
+          "medication": "Lantus",
+          "status": "active"
+        },
+        {
+          "medication": "NovoLog",
+          "status": "active"
+        },
+        {
+          "medication": "Keflex",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Left and right heart catheterization performed on _%#DDMM2006#%_ demonstrated minimal angiographical coronary artery disease with no hemodynamically significant lesions. Moderate pulmonary artery hypertension was noted with mean RA of 26, RV of 43/26, PA of 58/29 and a pulmonary artery wedge pressure of 10. Fixed cardiac index was 1.3. 3. Flolan initiation and catheterization lab performed on _%#DDMM2006#%_.",
+      "medicines": [
+        {
+          "medication": "Flolan",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Right tubal pregnancy in _%#MM1992#%_, and laparoscopy with lysis of adhesions in 1995. 3. Last menstrual period is _%#MMDD2007#%_. FAMILY HISTORY: Father with lymphoma, MI and CVA, mother with liver disease, siblings with heart disease and high cholesterol. Daughter with diabetes. GYNECOLOGICAL HISTORY: As above. PHYSICAL EXAMINATION: GASTROINTESTINAL: Abdomen is distended.",
+      "medicines": [
+        {
+          "medication": "pain medication",
+          "status": "active"
+        },
+        {
+          "medication": "antibiotics",
+          "status": "active"
+        },
+        {
+          "medication": "anti-inflammatory medication",
+          "status": "active"
+        },
+        {
+          "medication": "contraceptive medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Overall, the patient's hospital course was one of improvement. His oxygenation improved and as such at the time of my exam, he was able to saturate well without any supplemental oxygen at a saturation of 92%-93%. Additionally, he showed improvements in terms of his cognitive status after sustaining his withdrawal from alcohol. On the MSSA protocol, the patient eventually stabilized and is very committed to the idea of cessation of alcohol consumption at the time of discharge.",
+      "medicines": [
+        {
+          "medication": "oxygen",
+          "status": "active"
+        },
+        {
+          "medication": "alcohol cessation medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He currently has been on Adderall for attention-deficit/hyperactivity disorder. HISTORY OF PRESENT ILLNESS: His mother brought him to the hospital after he had taken 48 tablets of Coricidin and two bottles of Robitussin DM to get high. He first started the Coricidin and Robitussin DM in the seventh grade. He states he currently for the last several months has been using this combination five to seven times a week.",
+      "medicines": [
+        {
+          "medication": "Adderall",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He passed the ABR hearing screening test. Immunizations: Hepatitis B vaccine was not given. _%#NAME#%_ was discharged on bottle feeding ALD. The parents were asked to make an appointment for their child to see you within one week. Thank you again for allowing us to share in the care of your patient.",
+      "medicines": [
+        {
+          "medication": "Hepatitis B vaccine",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Unknown medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He denied any pleurisy or fever. He denied any sore throat or headache. He denied any significant hemoptysis. He is taking aspirin and Plavix. He is using Robitussin DM and throat lozenges and developed some shortness of breath as well as some abdominal distention early in the evening on Saturday.",
+      "medicines": [
+        {
+          "medication": "aspirin",
+          "status": "active"
+        },
+        {
+          "medication": "Plavix",
+          "status": "active"
+        },
+        {
+          "medication": "Robitussin DM",
+          "status": "active"
+        },
+        {
+          "medication": "throat lozenges",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "6. Carbidopa/levodopa 25/100 one tab q.a.m., one tablet at 4:00 p.m. two tabs at h.s. 7. Lanoxin 0.125 mg a day. 8. Chlorthalidone 50 mg a day. 9. Pentoxicelene CR 400 mg t.i.d. 10. Diltiazem CR 240 mg daily. 11. Effexor XR 37.5 mg daily. ALLERGIES: Codeine and sulfa. SOCIAL HISTORY: She is married, husband's name is _%#NAME#%_ and they currently live alone in assisted living, no tobacco use.",
+      "medicines": [
+        {
+          "medication": "Carbidopa/levodopa 25/100",
+          "status": "active"
+        },
+        {
+          "medication": "Lanoxin 0.125 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Chlorthalidone 50 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Pentoxicelene CR 400 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Diltiazem CR 240 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Effexor XR 37.5 mg",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Neurology consultation was obtained and Dr. _%#NAME#%_ ordered an MRI of the cervical spine which showed a solid fusion from C4 through C7 and mild degenerative retrolisthesis of C3-C4 and anterior subluxation C7 and T1. During the hospital course, the patient started feeling much better. The fullness of her head had resolved. The patient had also had a physical therapy evaluation during the hospital stay, and neurology recommended to discharge patient home, and PT recommendation was to discharge with home physical therapy.",
+      "medicines": [
+        {
+          "medication": "MRI",
+          "status": "active"
+        },
+        {
+          "medication": "physical therapy",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "3. Avonex (interferon). 4. Tylenol extra-strength 650 mg PO q 4 hours prn. 5. Decadron protocol, currently 8 mg IM q.i.d. X the next two days, with taper. ALLERGIES: No known drug allergies. HABITS: The patient denies tobacco, alcohol, or illicit drug use.",
+      "medicines": [
+        {
+          "medication": "Avonex",
+          "status": "active"
+        },
+        {
+          "medication": "Tylenol extra-strength 650 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Decadron",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Transesophageal echocardiography done on _%#MM#%_ _%#DD#%_, 2004, showed mildly to moderately decreased left ventricular function with visually estimated ejection fraction of 40%, mild mitral annular calcification, severe left atrial enlargement, severe right atrial enlargement, trace aortic regurgitation, mild-to-moderate mitral regurgitation, significant SEC in left atrium, small PFO with left-to-right shunt. 3. Right heart catheterization on _%#MM#%_ _%#DD#%_, 2004, showed a right atrial pressure of 18, right ventricular pressure of 49/17, PA 46/21, and pulmonary arterial wedge pressure of 24. Cardiac output by Fick was 5.4 with an index of 2.9. 4. Generator change of biventricular pacer on _%#MM#%_ _%#DD#%_, 2004, by Dr. _%#NAME#%_.",
+      "medicines": [
+        {
+          "medication": "Transesophageal echocardiography",
+          "status": "active"
+        },
+        {
+          "medication": "Right heart catheterization",
+          "status": "active"
+        },
+        {
+          "medication": "Generator change of biventricular pacer",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "REVIEW OF SYSTEMS: Not currently possible. PHYSICAL EXAMINATION: GENERAL: She is a thin, frail, elderly female currently lying in bed. VITAL SIGNS: Temperature 98 degrees, pulse 64, blood pressure 106/59, respirations 12, CVP is 9. Weight is 42.5 kilograms. HEENT: No evidence of head trauma. Pupils are round and reactive. There is arcus senilis, sclerae white.",
+      "medicines": [
+        {
+          "medication": "Not currently possible",
+          "status": "active"
+        },
+        {
+          "medication": "She is a thin, frail, elderly female currently lying in bed",
+          "status": "active"
+        },
+        {
+          "medication": "Temperature 98 degrees",
+          "status": "active"
+        },
+        {
+          "medication": "pulse 64",
+          "status": "active"
+        },
+        {
+          "medication": "blood pressure 106/59",
+          "status": "active"
+        },
+        {
+          "medication": "respirations 12",
+          "status": "active"
+        },
+        {
+          "medication": "CVP is 9",
+          "status": "active"
+        },
+        {
+          "medication": "Weight is 42.5 kilograms",
+          "status": "active"
+        },
+        {
+          "medication": "No evidence of head trauma",
+          "status": "active"
+        },
+        {
+          "medication": "Pupils are round and reactive",
+          "status": "active"
+        },
+        {
+          "medication": "There is arcus senilis, sclerae white",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Romberg is negative. Cerebellar function is intact. There is fine tremor of the distal upper extremities. No rigidity. Of note, the patient did receive Haldol 5 mg IM at Fairview Northland. LABORATORY DATA: Unremarkable urinalysis. Negative urine toxicology screen except for positive THC.",
+      "medicines": [
+        {
+          "medication": "Haldol",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "_%#NAME#%_ had a 15-pound weight loss, mouth sores, and a wide-based gait during his chemotherapy. A bone marrow aspirate and biopsy done on _%#MMDD2006#%_ showed no Philadelphia chromosome. However, FISH showed 1% of 400 cells to have a signal pattern indicative of BCR-ABL 1 gene infusion and was 5-10% cellular, with 2.5% blasts.",
+      "medicines": [
+        {
+          "medication": "chemotherapy",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "The pharynx and nasopharynx otherwise appeared unremarkable. He has a flap defect in the right chest wall, which is healing well at this time. ASSESSMENT AND PLAN: This is a 44-year-old male with oral tongue cancer, originally clinical stage T3, N1; pathologic stage T2, N0, M0. He is status post resection with initial positive and close margins which were rendered negative on re-resection.",
+      "medicines": []
+    },
+    {
+      "context": "In addition, he had a catheter in his Monti. DISPOSITION: Patient is to be discharged to home. DISCHARGE MEDICATIONS: 1. Prilosec OTC 10 mg p.o. daily. 2. MS Contin 90 mg p.o. b.i.d. 3. Valium 10 mg p.o. every night. 4. Flexeril 10 mg p.o. t.i.d. 5. Norvasc 10 mg p.o. daily.",
+      "medicines": [
+        {
+          "medication": "Prilosec OTC",
+          "status": "active"
+        },
+        {
+          "medication": "MS Contin",
+          "status": "active"
+        },
+        {
+          "medication": "Valium",
+          "status": "active"
+        },
+        {
+          "medication": "Flexeril",
+          "status": "active"
+        },
+        {
+          "medication": "Norvasc",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He has been placed on trimethoprim sulfa, to which the isolate is sensitive. PAST MEDICAL HISTORY: The patient's past history is significant for the neurologic problems associated with his AV malformation of the spine and also a past history of middle cerebral artery aneurysm which required clipping. He has had problems with decubitus ulcers in the past.",
+      "medicines": [
+        {
+          "medication": "trimethoprim sulfa",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "MEDICATIONS: 1. Prednisone 5 mg p.o. daily. 2. Bactrim SS 1 tablet p.o. daily. 3. Spironolactone 50 mg p.o. b.i.d. 4. Inderal LA 60 mg p.o. daily. 5. Sodium bicarbonate 1.3 gm p.o. b.i.d. 6. Prilosec 20 mg p.o. daily. 7. Oxycodone 5-10 mg p.o. q. 4-6h. p.r.n. for pain.",
+      "medicines": [
+        {
+          "medication": "Prednisone 5 mg p.o. daily",
+          "status": "active"
+        },
+        {
+          "medication": "Bactrim SS 1 tablet p.o. daily",
+          "status": "active"
+        },
+        {
+          "medication": "Spironolactone 50 mg p.o. b.i.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Inderal LA 60 mg p.o. daily",
+          "status": "active"
+        },
+        {
+          "medication": "Sodium bicarbonate 1.3 gm p.o. b.i.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Prilosec 20 mg p.o. daily",
+          "status": "active"
+        },
+        {
+          "medication": "Oxycodone 5-10 mg p.o. q. 4-6h. p.r.n. for pain",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He was able to walk without difficulty, there was no Romberg sign, and in fact no focal or lateralizing neurologic findings. Subsequent MR studies included an MRI of the brain, MR angiogram of the circle of Willis and MR angiogram of the carotids in the neck. His brain MRI was normal with a normal diffusion scan, vessels in the circle of Willis and carotids were widely patent, with no evidence of stenotic disease or changes.",
+      "medicines": [
+        {
+          "medication": "ANONYMIZED_NAME_0",
+          "status": "active"
+        },
+        {
+          "medication": "ANONYMIZED_NAME_1",
+          "status": "active"
+        },
+        {
+          "medication": "ANONYMIZED_NAME_2",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "This was addressed and her questions were answered. She is aware that this polyp may not be the cause of her abnormal bleeding. If the abnormal bleeding persists after the surgery, then I may recommend increasing her Depo-Provera dose to 300 mg IM every three months versus discontinuation of the Depo-Provera altogether to see how that affects her bleeding.",
+      "medicines": [
+        {
+          "medication": "Depo-Provera",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She was a full-term AGA infant with a normal length and head circumference. _%#NAME#%_ was noted to have respiratory distress syndrome. A UAC/UVC line and an ET tube were placed. HOSPITAL COURSE: Her course by systems: FLUIDS/ELECTROLYTES/NUTRITION: _%#NAME#%_ needed to be maintained on Hyperal and peripheral IV.",
+      "medicines": [
+        {
+          "medication": "Hyperal",
+          "status": "active"
+        },
+        {
+          "medication": "Peripheral IV",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Her hand grip is 5/5 bilaterally as well as her biceps and triceps strength. She has full range of motion of her upper extremities. Her sensation is intact C4 through T2 distribution bilaterally and she has strong radial pulses bilaterally. She has a negative Homans. PENDING TEST RESULTS: None. DISCHARGE MEDICATIONS: The patient will continue her preoperative medications which included 1. Neurontin 1200 mg p.o. t.i.d.",
+      "medicines": [
+        {
+          "medication": "Neurontin 1200 mg p.o. t.i.d.",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He has not had any cardiac transplantation, etc. done. Due to his complex medical course, he has been significantly impaired in function, but appears to have evaluated in participating in physical therapy and speech. For now will we should continue with the PT, OT and speech for his aspiration risk. He has a GJ tube now. His tube feeds should be continued and he should her post-discharge have a speech evaluation and treatment at regular intervals.",
+      "medicines": [
+        {
+          "medication": "PT",
+          "status": "active"
+        },
+        {
+          "medication": "OT",
+          "status": "active"
+        },
+        {
+          "medication": "speech therapy",
+          "status": "active"
+        },
+        {
+          "medication": "GJ tube feeds",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "PAST MEDICAL HISTORY: 1. Juvenile rheumatoid arthritis for which she takes methotrexate. A. Left knee replacement. B. Lumbar fusions. C. Cervical fusions of C2 to C4, _%#MM2005#%_. 2. Gastroesophageal reflux disease (GERD). 3. Depression. 4. Migraine headaches. 5. Bilateral hip replacements. 6. Obstructive sleep apnea, uses BiPAP machine at home.",
+      "medicines": [
+        {
+          "medication": "methotrexate",
+          "status": "active"
+        },
+        {
+          "medication": "BiPAP machine",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "EXTREMITIES: Examination of the right upper extremity has some generalized swelling of the dorsum of her right hand up into her wrist and into her forearm. She does have some chronic changes of osteoarthritis. Then on her right the DIP joint actually is quite red, swollen and painful with touch. She is unable to completely flex her hand to make a fist because of the edema in all of her joints and question if this edema may be synovitis.",
+      "medicines": [
+        {
+          "medication": "Cortisone",
+          "status": "active"
+        },
+        {
+          "medication": "Ibuprofen",
+          "status": "active"
+        },
+        {
+          "medication": "Tramadol",
+          "status": "discontinued"
+        }
+      ]
+    },
+    {
+      "context": "He has spastic paresis of the upper and lower extremities with bowel and bladder dysfunction. He has an MRI as well as CT scan of the cervical spine which demonstrates a congenitally tight canal at C3-C4 with accompanying severe degenerative disc disease at C3-C4 with herniated disk which is causing a significant degree of spinal cord compression and T2 signal changes within the cord itself. I had a long discussion with _%#NAME#%_ and his family which regards to the operative plan.",
+      "medicines": [
+        {
+          "medication": "spasticity medication",
+          "status": "active"
+        },
+        {
+          "medication": "pain medication",
+          "status": "active"
+        },
+        {
+          "medication": "bladder medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "HISTORY OF PRESENT ILLNESS: The patient is a very pleasant Asian female who has developed significant abdominal pain with and nausea over the weekend. The pain was described as mid epigastric, radiating to the right and to the back. Her daughter is a PA student and served as interpreter through this visit. The patient reports her abdominal discomfort has improved dramatically since presentation.",
+      "medicines": [
+        {
+          "medication": "Pain medication",
+          "status": "active"
+        },
+        {
+          "medication": "Antiemetic",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "PAST MEDICAL HISTORY: Acute myeloid leukemia as described above. Otherwise healthy. ALLERGIES: No known drug allergies. MEDICATIONS: 1. Dulcolax. 2. Lactulose. 3. Bactrim SS 1 tab po bid q Mon, Tues. 4. Murelax. 5. Colace. 6. Prevacid. 7. Senna. 8. Zofran. SOCIAL HISTORY: The patient's home town is _%#CITY#%_, South Dakota where he lives with his parents and siblings.",
+      "medicines": [
+        {
+          "medication": "Dulcolax",
+          "status": "active"
+        },
+        {
+          "medication": "Lactulose",
+          "status": "active"
+        },
+        {
+          "medication": "Bactrim SS",
+          "status": "active"
+        },
+        {
+          "medication": "Murelax",
+          "status": "active"
+        },
+        {
+          "medication": "Colace",
+          "status": "active"
+        },
+        {
+          "medication": "Prevacid",
+          "status": "active"
+        },
+        {
+          "medication": "Senna",
+          "status": "active"
+        },
+        {
+          "medication": "Zofran",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "3. Current symptoms are not thought to be secondary to his blood pressure medication as typically with lisinopril there would be more of a cholestatic type picture with increased alkaline phosphatase. 4. We will, therefore, check iron studies, ANA, AMA, SMA, B12, and folic acid. 5. Viral serologies have already been requested. 6. Liver biopsy will be entertained, however, that after repeated liver studies over the next few weeks.",
+      "medicines": [
+        {
+          "medication": "lisinopril",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Enbrel 25 mg twice weekly. 3. Lasix 40 mg p.o. q.d. 4. Tequin 400 mg p.o. q. 24 h. x two weeks. 5. Guaifenesin SA 600 mg p.o. b.i.d. 6. Lisinopril 2.5 mg p.o. q.d. 7. Glucophage XR 1000 mg p.o. q.d. 8. Actos 15 mg p.o. q.d. 9. Multivitamin. 10. DuoNeb q.i.d. and p.r.n. 11. Amaryl per sliding scale blood sugars greater than or equal to 130 up to 160 she is to take 1 mg.",
+      "medicines": [
+        {
+          "medication": "Enbrel 25 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix 40 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Tequin 400 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Guaifenesin SA 600 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Lisinopril 2.5 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Glucophage XR 1000 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Actos 15 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Multivitamin",
+          "status": "active"
+        },
+        {
+          "medication": "DuoNeb",
+          "status": "active"
+        },
+        {
+          "medication": "Amaryl",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Despite improvement of his EF, the patient's heart failure and volume balance have been difficult to control secondary to his chronic renal failure and hypotension with afterload reduction. On admission, the patient was in volume overload with RA pressure of 18 and a pulmonary capillary wedge pressure estimated at 24 by right heart catheterization. He was admitted to the inpatient service and diuresed with IV nesiritide and Bumex.",
+      "medicines": [
+        {
+          "medication": "nesiritide",
+          "status": "active"
+        },
+        {
+          "medication": "Bumex",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "4. Check carotid ultrasound scan and get echocardiogram of his heart. 5. Continue with aspirin and his Plavix. 6. Will use insulin to aggressively bring down his sugar. 7. OT and PT and speech therapy to evaluate the patient. 8. I think the patient should be able to eat. 9. Will check cholesterol in the morning.",
+      "medicines": [
+        {
+          "medication": "aspirin",
+          "status": "active"
+        },
+        {
+          "medication": "Plavix",
+          "status": "active"
+        },
+        {
+          "medication": "insulin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Metamucil 1 tablespoon liquid daily. 3. Vitamin B12 1000 mcg IM 1 time q. month. 4. Acetaminophen 625 mg p.o. q.4 h. p.r.n. pain, fever. 5. Amlodipine 5 mg p.o. q.p.m. 6. EC ASA 81 mg p.o. daily. 7. Clopidogrel 75 mg p.o. daily. 8. Lasix 40 mg p.o. daily. 9. Metoprolol 25 mg p.o. b.i.d. 10. Ranitidine 150 mg p.o. b.i.d.",
+      "medicines": [
+        {
+          "medication": "Metamucil",
+          "status": "active"
+        },
+        {
+          "medication": "Vitamin ANONYMIZED_US_DRIVER_LICENSE_0",
+          "status": "active"
+        },
+        {
+          "medication": "Acetaminophen",
+          "status": "active"
+        },
+        {
+          "medication": "Amlodipine",
+          "status": "active"
+        },
+        {
+          "medication": "EC ASA",
+          "status": "active"
+        },
+        {
+          "medication": "Clopidogrel",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix",
+          "status": "active"
+        },
+        {
+          "medication": "Metoprolol",
+          "status": "active"
+        },
+        {
+          "medication": "Ranitidine",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "5. Traumatic brain injury (TIB), status post MVA at age 16. 6. Last MRI on _%#MMDD2007#%_ showed multiple metastatic lesions with mild cord compression in the T3 through T5 lesions with advanced compression at T10. ALLERGIES: 1. CT dye. Reaction is not known. 2. Lidocaine or Lanacane.",
+      "medicines": [
+        {
+          "medication": "CT dye",
+          "status": "active"
+        },
+        {
+          "medication": "Lidocaine",
+          "status": "active"
+        },
+        {
+          "medication": "Lanacane",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "MEDICATIONS AT THE TIME OF DISCHARGE: 1. Protonix 20 mg tablets 1 tablet daily. 2. Paxil 30 mg daily. 3. Detrol LA 1 tablet b.i.d. 4. Extra Strength Tylenol 500 mg tablets, 1 or 2 tablets every 4-6 hours p.r.n. pain (total Tylenol dose less than 4 g daily).",
+      "medicines": [
+        {
+          "medication": "Protonix",
+          "status": "active"
+        },
+        {
+          "medication": "Paxil",
+          "status": "active"
+        },
+        {
+          "medication": "Detrol LA",
+          "status": "active"
+        },
+        {
+          "medication": "Extra Strength Tylenol",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "I would not do a bolus because I see signs of attenuation on the CT scan, and I am afraid of hemorrhagic transformation of this ischemic CVI. I will plan to proceed with MRI of the brain with MR angiogram, and review records from her primary MD. I will also plan to ask for consultation from Vascular Surgery to make a decision about the time of the carotid endarterectomy.",
+      "medicines": [
+        {
+          "medication": "bolus",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "4. Lidocaine patch, 1 patch q. day. 5. N-acetylcysteine 600 mg p.o. t.i.d. 6. Oxycodone CR 60 mg p.o. t.i.d. (refilled by the Pain Team during this admission) 7. Oxycodone IR 5-10 mg p.o. q.4h. p.r.n. (refilled by Pain Team during this admission) please note that oxycodone above was the oxycodone CR.",
+      "medicines": [
+        {
+          "medication": "Lidocaine patch",
+          "status": "active"
+        },
+        {
+          "medication": "N-acetylcysteine",
+          "status": "active"
+        },
+        {
+          "medication": "Oxycodone CR",
+          "status": "active"
+        },
+        {
+          "medication": "Oxycodone IR",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Wife reports some jerking of extremities but no bowel or bladder incontinence or tongue biting. On arrival to Fairview-University Medical Center, the emergency personnel, EMS, gave the patient Glucagon 1 mg IM x 2. The patient's blood sugar was 51 on arrival to the emergency department. The patient's vital signs at the emergency department were blood pressure of 147/94, pulse 58, respirations 20, temperature 96.9, 98% saturations on room air.",
+      "medicines": [
+        {
+          "medication": "Glucagon",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Left there yesterday, subsequent to which patient consumed 7-8 cocktails to the point of intoxication. Presented to the emergency department at Fairview-Southdale Hospital with increasing despondency and alleged suicidal threats. BAL of .08. No specific active self harm, since maintained on MSSA withdrawal protocol using Ativan. Thiamine 100 mg q day x 3. No overt stigmata of alcohol withdrawal.",
+      "medicines": [
+        {
+          "medication": "Ativan",
+          "status": "active"
+        },
+        {
+          "medication": "Thiamine",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Previous surgery is compliant to wisdom teeth. ALLERGIES: Noted on his chart. EXAMINATION: The right great toe is erythematous and swollen from the MP joint distally. He has diminished sensation to his feet. No pulses are palpable about the right foot. He has active flexion and dorsi flexion of the right great toe.",
+      "medicines": [
+        {
+          "medication": "wisdom teeth medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "_%#NAME#%_ _%#NAME#%_ _%#NAME#%_ is a 57-year- old patient with chronic lymphocytic leukemia (CLL) who has been on chemotherapy and just underwent his third cycle of therapy about three weeks ago. He was seen earlier today by Dr. _%#NAME#%_'s nurse practitioner, _%#NAME#%_ _%#NAME#%_ _%#NAME#%_, NP, who noted significant tenderness in the right lower quadrant. The patient had a history of 3-4 days of increasing abdominal pain and now seeming to localize to the right lower quadrant.",
+      "medicines": [
+        {
+          "medication": "chemotherapy",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "4. Tums 500 mg b.i.d. The patient is not to take this at the time of her Zithromax. 5. If having acid reflux symptoms, the patient may purchase Prilosec OTC 20 mg daily. DISCHARGE INSTRUCTIONS: 1. The patient will follow up with Dr. _%#NAME#%_ _%#NAME#%_ in two weeks time.",
+      "medicines": [
+        {
+          "medication": "Tums 500 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Zithromax",
+          "status": "active"
+        },
+        {
+          "medication": "Prilosec OTC 20 mg",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "DISCHARGE DIAGNOSES: Wound infection. PROCEDURES PERFORMED: None. HOSPITAL COURSE: The patient is an 18-year-old female who is status post VBG in _%#MM#%_ of 2003 with a wound infection. She is on chronic dialysis for renal failure. She was admitted on _%#MM#%_ of 2003 when her mother found that the patient's wound had \"greenish pus\" in it.",
+      "medicines": [
+        {
+          "medication": "chronic dialysis",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "_%#NAME#%_ lives at home with older half brother and half sister, each from parents' previous relationship. PAST MEDICAL HISTORY: Remarkable for bilateral PE tubes inserted at age 3 associated with hearing loss and dysarthria. Adenoidectomy earlier than that. He was a term birth with low Apgar scores.",
+      "medicines": [
+        {
+          "medication": "None",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "I requested that she check her sugar once to twice a day. I discussed with patient her risk with pregnancy. By past history, she has had one definite, one probable PE associated with pregnancy. She says at this point she would want to have further children. I told her that would be a very high risk situation for her and she should discuss this with her primary MD or possibly an ob/gyn and to get more particulars on her risk with this.",
+      "medicines": [
+        {
+          "medication": "sugar monitoring",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Examination of his left upper extremity revealed a laceration proximal to the IP joint of the thumb and distal to the MP joint. He was unable to fully extend the thumb at the IP joint. Extensor pollicis longus tendon has retracted. His APL and EPB are intact.",
+      "medicines": [
+        {
+          "medication": "pain reliever",
+          "status": "active"
+        },
+        {
+          "medication": "antibiotic",
+          "status": "active"
+        },
+        {
+          "medication": "anti-inflammatory",
+          "status": "active"
+        },
+        {
+          "medication": "hand splint",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "4. Restless leg syndrome. 5. Hyperlipidemia. 6. Sleep apnea. 7. Ventral hernia repair. 8. Tonsillectomy. 9. Sinus surgery. 10. Rotator cuff repair 11. Left total knee arthroplasty. 12. AV node ablation. 13. ORIF left elbow. SOCIAL HISTORY: Married and lives at home in _%#CITY#%_, Minnesota.",
+      "medicines": [
+        {
+          "medication": "Restless leg syndrome",
+          "status": "active"
+        },
+        {
+          "medication": "Hyperlipidemia",
+          "status": "active"
+        },
+        {
+          "medication": "Sleep apnea",
+          "status": "active"
+        },
+        {
+          "medication": "Ventral hernia repair",
+          "status": "active"
+        },
+        {
+          "medication": "Tonsillectomy",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Sinus surgery",
+          "status": "active"
+        },
+        {
+          "medication": "Rotator cuff repair",
+          "status": "active"
+        },
+        {
+          "medication": "Left total knee arthroplasty",
+          "status": "active"
+        },
+        {
+          "medication": "AV node ablation",
+          "status": "active"
+        },
+        {
+          "medication": "ORIF left elbow",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "2. Amaryl 1 mg qd. 3. Prinivil 10 mg qd. 4. Lasix 40 mg qd. 5. Neurontin 100 mg h.s. 6. Prn Endocet, Darvocet, Tylenol, MOM and acidophilus. Social Services arranged a ride home. Hospice will take over his last two days of care.",
+      "medicines": [
+        {
+          "medication": "Amaryl",
+          "status": "active"
+        },
+        {
+          "medication": "Prinivil",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix",
+          "status": "active"
+        },
+        {
+          "medication": "Neurontin",
+          "status": "active"
+        },
+        {
+          "medication": "Endocet",
+          "status": "prn"
+        },
+        {
+          "medication": "Darvocet",
+          "status": "prn"
+        },
+        {
+          "medication": "Tylenol",
+          "status": "prn"
+        },
+        {
+          "medication": "MOM",
+          "status": "prn"
+        },
+        {
+          "medication": "acidophilus",
+          "status": "prn"
+        }
+      ]
+    },
+    {
+      "context": "An assessment through the school district of _%#NAME#%_'s academic achievement skill, as measured by the Woodcock-Johnson III Test of Achievement, Form A, reflexed lower average broad reading skills (SS = 96) at the 26th percentile, borderline broad math skill (SS = 79) at the 8th percentile and low average broad written language skills (SS = 88) at the 21st percentile. Overall, results from the school evaluation indicated that _%#NAME#%_ did not demonstrate a severe enough discrepancy between his intellectual and academic achievement skills and therefore was not eligible to receive special education support to address learning difficulties.",
+      "medicines": [
+        {
+          "medication": "Woodcock-Johnson III Test of Achievement",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "MAJOR PROCEDURES/TREATMENTS: 1. Femoral catheter placement. 2. Right common iliac artery stent placement. 3. Ballooning of left innominate vein. 4. Ballooning of left brachial vein. 5. AV graft, left left upper extremity declotting. 6. Hemodialysis. 7. CT angiogram. HISTORY OF PRESENT ILLNESS: AThe patient is a 49-year-old female with end-stage renal disease secondary to diabetes, diabetes mellitus type 1.",
+      "medicines": [
+        {
+          "medication": "Femoral catheter",
+          "status": "active"
+        },
+        {
+          "medication": "Right common iliac artery stent",
+          "status": "active"
+        },
+        {
+          "medication": "Ballooning of left innominate vein",
+          "status": "active"
+        },
+        {
+          "medication": "Ballooning of left brachial vein",
+          "status": "active"
+        },
+        {
+          "medication": "AV graft",
+          "status": "active"
+        },
+        {
+          "medication": "Hemodialysis",
+          "status": "active"
+        },
+        {
+          "medication": "CT angiogram",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "C. difficile toxin was negative. Because of a history of some watery stools in the last 2 weeks it was decided to place _%#NAME#%_ on a 10- day course of metronidazole. _%#NAME#%_ has been afebrile and no PD cultures have been positive since arriving on the floor. _%#NAME#%_ also has a history of IgG requiring replacement. His most recently IgG was drawn on _%#MM#%_ _%#DD#%_ and was 464.",
+      "medicines": [
+        {
+          "medication": "metronidazole",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "HEENT: Normocephalic, atraumatic. The left pupil is larger than the right. Both are reactive to light. Extraocular muscles are intact. OP is clear. TMs are clear. NECK: Supple without lymphadenopathy or thyromegaly. HEART: Sounds are difficult to hear secondary to his very loud respiratory effort but appears regular.",
+      "medicines": [
+        {
+          "medication": "None",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Abdomen is soft and nontender. Uterus was just mildly enlarged with no adnexal masses. IMPRESSION: Missed AB, for D&E. The patient's blood type is O positive.",
+      "medicines": [
+        {
+          "medication": "Abdomen is soft and nontender",
+          "status": "active"
+        },
+        {
+          "medication": "Uterus was just mildly enlarged with no adnexal masses",
+          "status": "active"
+        },
+        {
+          "medication": "Missed AB, for D&E",
+          "status": "active"
+        },
+        {
+          "medication": "Blood type O positive",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "PROBLEM: Ductal adenocarcinoma of pancreas, stage IIB T3 PN1a M0 status post Whipple procedure. Ms. _%#NAME#%_ was seen for initial consultation in the Department of Therapeutic Radiology on _%#MMDD2004#%_ by Dr. _%#NAME#%_ _%#NAME#%_ and Dr. _%#NAME#%_ _%#NAME#%_ at the rest of Dr. _%#NAME#%_.",
+      "medicines": [
+        {
+          "medication": "Chemotherapy",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Current plan is for physical and occupational therapy to facilitate her recovery from a physical strengthening and stability perspective. She will have sternal precautions. We will monitor her sternal wounds. 2. Aortic stenosis, status post porcine AVR. Date of procedure: _%#MMDD2005#%_. She will now be warfarin anticoagulated secondary to the nature of her valve. Again, sternal precautions will be undertaken. 3. Hyperglycemia. Blood sugars will be monitored for the next couple of days but if she remains stable, these will be discontinued or put to more less frequent screening.",
+      "medicines": [
+        {
+          "medication": "Physical therapy",
+          "status": "active"
+        },
+        {
+          "medication": "Occupational therapy",
+          "status": "active"
+        },
+        {
+          "medication": "Warfarin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "DERMATOLOGIC: No skin cancer or lesions. INFECTIOUS DISEASE: Denied. GENERAL: The patient denies any lumps, bumps, headaches, fevers, chills, night sweats, weight loss, or other tumor-like complaints. MEDICATIONS: 1. Nifedipine CR. 2. Atenolol/chlorthalidone. 3. Potassium chloride. 4. Flomax. 5. Aspirin. 6. Multivitamins (therapeutic M) 7. Vitamin C 8. Calcium. 9. Glucosamine. 10. Omega 3. 11. Kai-Kit Wan Chinese herbs.",
+      "medicines": [
+        {
+          "medication": "Nifedipine CR",
+          "status": "active"
+        },
+        {
+          "medication": "Atenolol/chlorthalidone",
+          "status": "active"
+        },
+        {
+          "medication": "Potassium chloride",
+          "status": "active"
+        },
+        {
+          "medication": "Flomax",
+          "status": "active"
+        },
+        {
+          "medication": "Aspirin",
+          "status": "active"
+        },
+        {
+          "medication": "Multivitamins (therapeutic M)",
+          "status": "active"
+        },
+        {
+          "medication": "Vitamin C",
+          "status": "active"
+        },
+        {
+          "medication": "Calcium",
+          "status": "active"
+        },
+        {
+          "medication": "Glucosamine",
+          "status": "active"
+        },
+        {
+          "medication": "Omega 3",
+          "status": "active"
+        },
+        {
+          "medication": "ANONYMIZED_NAME_1 Chinese herbs",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "ABDOMEN is soft, nontender without palpable mass. BACK examination is deferred. The peripheral joint examination showed some bony changes of DIP joints, however, there is no active synovitis. The range of motion of joints is normal. Grip strength is normal. Proximal muscle strength of the upper EXTREMITIES actually seems fairly good.",
+      "medicines": [
+        {
+          "medication": "Tylenol",
+          "status": "active"
+        },
+        {
+          "medication": "Ibuprofen",
+          "status": "active"
+        },
+        {
+          "medication": "Naproxen",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Aspirin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She is Ukrainian origin. She was diagnosed with right-sided breast cancer in _%#DDMM2003#%_. At that time her tumor was ER positive, PR weakly positive, Her-2 negative. She had invasive carcinoma grade III, dimensions 1.6 x 1.5 x 1.8 cm. She had excision but margins positive. Extensive DCIS and angiolymphatic invasion.",
+      "medicines": [
+        {
+          "medication": "Tamoxifen",
+          "status": "active"
+        },
+        {
+          "medication": "Anastrozole",
+          "status": "active"
+        },
+        {
+          "medication": "Letrozole",
+          "status": "active"
+        },
+        {
+          "medication": "Trastuzumab",
+          "status": "active"
+        },
+        {
+          "medication": "Doxorubicin",
+          "status": "active"
+        },
+        {
+          "medication": "Cyclophosphamide",
+          "status": "active"
+        },
+        {
+          "medication": "Paclitaxel",
+          "status": "active"
+        },
+        {
+          "medication": "Docetaxel",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "5. PhosLo 667 t.i.d. 6. Minocin 100 b.i.d. 7. Prednisone 15 mg every other day 8. Metoprolol 25 b.i.d. 9. Erythropoietin every other week 10. Sodium bicarbonate 650 t.i.d. 11. Vitamin B12 1 gram IM monthly 12. Synthroid 150 mcg daily 13. Calcitrol 0.25 3 times per week 14. Coumadin as directed. 15. Lasix 20-40 mg daily. 16. Simvastatin 40 mg per day",
+      "medicines": [
+        {
+          "medication": "PhosLo",
+          "status": "active"
+        },
+        {
+          "medication": "Minocin",
+          "status": "active"
+        },
+        {
+          "medication": "Prednisone",
+          "status": "active"
+        },
+        {
+          "medication": "Metoprolol",
+          "status": "active"
+        },
+        {
+          "medication": "Erythropoietin",
+          "status": "active"
+        },
+        {
+          "medication": "Sodium bicarbonate",
+          "status": "active"
+        },
+        {
+          "medication": "Vitamin ANONYMIZED_US_DRIVER_LICENSE_0",
+          "status": "active"
+        },
+        {
+          "medication": "Synthroid",
+          "status": "active"
+        },
+        {
+          "medication": "Calcitrol",
+          "status": "active"
+        },
+        {
+          "medication": "Coumadin",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix",
+          "status": "active"
+        },
+        {
+          "medication": "Simvastatin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Cholesterol 166; HDL 51; triglycerides 158; LDL 83; lipase 1273. CA19-9 of 142 (normal less than 37 units/mL). IMPRESSION: Adenocarcinoma of the head of pancreas, CT T2, Nx, M0. RECOMMENDATIONS: The patient is a candidate for preoperative chemoradiation treatment.",
+      "medicines": [
+        {
+          "medication": "Statin",
+          "status": "active"
+        },
+        {
+          "medication": "Omega-3 fatty acids",
+          "status": "active"
+        },
+        {
+          "medication": "Fibrates",
+          "status": "active"
+        },
+        {
+          "medication": "Insulin",
+          "status": "active"
+        },
+        {
+          "medication": "Chemotherapy",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Estimated blood loss less than 20 cc. The patient is strongly advised and encouraged to quit smoking to prevent recurrent thrombosis. The hypercoagulability workup for protein C&S, homocysteine and factor V Leyden are pending at the time of dictation. Fasting lipid panel showed total cholesterol of 201, HDL 25, LDL 83 and triglycerides 467.",
+      "medicines": [
+        {
+          "medication": "quit smoking",
+          "status": "active"
+        },
+        {
+          "medication": "protein C&S workup",
+          "status": "pending"
+        },
+        {
+          "medication": "homocysteine workup",
+          "status": "pending"
+        },
+        {
+          "medication": "factor V Leyden workup",
+          "status": "pending"
+        },
+        {
+          "medication": "lipid-lowering medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "On after admission, he was started on Zosyn and Podiatry was consulted to evaluate the ulcer. An x-ray was obtained which showed soft tissue swelling over the lateral foot at the level of the 5th MP joint. No evidence of osteomyelitis was seen; however, the ulcer base looked necrotic and there was serosanguineous discharge.",
+      "medicines": [
+        {
+          "medication": "ANONYMIZED_NAME_0",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "He is now hemodynamically stable and cooperative. PROBLEM LIST: 1. Psychiatry: History of alcohol dependency, depression and PTSD. Will place him on MSSA protocol and request Chemical Dependency consult in a.m. Patient is willing to go to inpatient chemical dependency treatment. He is currently on 72-hour hold because he was agitated at the emergency room and reports Vietnam War flashback.",
+      "medicines": [
+        {
+          "medication": "MSSA protocol",
+          "status": "active"
+        },
+        {
+          "medication": "Chemical Dependency consult",
+          "status": "active"
+        },
+        {
+          "medication": "inpatient chemical dependency treatment",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "5. Tylenol 325 mg 1-2 p.o. q.6h. p.r.n. DISCHARGE FOLLOW-UP: 1. Follow up with Dr. _%#NAME#%_ in two weeks. 2. Device Clinic in one week for staple removal. 3. _%#NAME#%_ _%#NAME#%_, NP, in three months. 4. INR check _%#MMDD2002#%_ at the nursing home with results to the Coumadin Clinic please.",
+      "medicines": [
+        {
+          "medication": "Tylenol 325 mg",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "DISCHARGE PLANS: The patient's medications at discharge include Norvasc 10 mg p.o. q.d., enteric-coated aspirin 81 mg p.o. q.d., Protonix 40 mg p.o. q.d., Lasix 40 mg p.o. q.d., Kay Ciel 20 mEq p.o. b.i.d., lorazepam 0.5 mg p.o. b.i.d., Combivent inhaler 4 puffs q.i.d. Please note this was reduced from 4 puffs q.2-4h. which she had been prescribed before. Toprol XL 25 mg p.o. q.d., Theophylline CR 200 mg p.o. b.i.d., Synthroid 0.1 mg (100 mcg) p.o. q.d., albuterol nebs q.2-4h. p.r.n. shortness of breath, ampicillin 500 mg p.o. b.i.d. for 7 more days to complete treatment for UTI diagnosed prior to admission, O2 2 L per nasal cannula, Ocuvite 1 p.o. q.d., Haldol 2 mg p.o. q.h.s., Guaifed PD 1 p.o. b.i.d. p.r.n. The patient's diet will be low fat, low cholesterol. She can be weightbearing and activity ad lib with assistance.",
+      "medicines": [
+        {
+          "medication": "Norvasc 10 mg p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "enteric-coated aspirin 81 mg p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Protonix 40 mg p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix 40 mg p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Kay Ciel 20 mEq p.o. b.i.d.",
+          "status": "active"
+        },
+        {
+          "medication": "lorazepam 0.5 mg p.o. b.i.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Combivent inhaler 4 puffs q.i.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Toprol XL 25 mg p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Theophylline CR 200 mg p.o. b.i.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Synthroid 0.1 mg (100 mcg) p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "albuterol nebs q.2-4h. p.r.n. shortness of breath",
+          "status": "active"
+        },
+        {
+          "medication": "ampicillin 500 mg p.o. b.i.d. for 7 more days to complete treatment for UTI diagnosed prior to admission",
+          "status": "active"
+        },
+        {
+          "medication": "ANONYMIZED_US_DRIVER_LICENSE_0 2 L per nasal cannula",
+          "status": "active"
+        },
+        {
+          "medication": "Ocuvite 1 p.o. q.d.",
+          "status": "active"
+        },
+        {
+          "medication": "Haldol 2 mg p.o. q.h.s.",
+          "status": "active"
+        },
+        {
+          "medication": "Guaifed PD 1 p.o. b.i.d. p.r.n.",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "PAST MEDICAL HISTORY: Aortic stenosis, mental retardation, Down's syndrome, obsessive compulsive features and oppositional behavior improving on Risperdal, talipes equinovarus, intermittent urinary incontinence, edentulous state, chronic constipation. MEDICATIONS: Paxil 30 mg p.o. daily, Risperdal 1 mg p.o. each P.M., Cetaphil to arms, hands, and feet after shower, Silicone ear plugs to wear during shower and when in water, Senokot tablets one p.o. on alternate days for constipation, atenolol 25 mg p.o. daily.",
+      "medicines": [
+        {
+          "medication": "Paxil",
+          "status": "active"
+        },
+        {
+          "medication": "Risperdal",
+          "status": "active"
+        },
+        {
+          "medication": "Cetaphil",
+          "status": "active"
+        },
+        {
+          "medication": "Senokot",
+          "status": "active"
+        },
+        {
+          "medication": "atenolol",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She has had some weakness, no focal neurologic changes. PAST MEDICAL HISTORY: Significant for degenerative joint disease in bilateral knees and history of shingles in the past. SURGERIES: Tonsillectomy as a child. MEDICATIONS: All over-the-counter: Tylenol t.i.d. to q.i.d. also Aleve 2 tablets b.i.d., glucosamine/chondroitin, occasional Tylenol P.M. She did stop the Aleve approximately a week to two weeks ago. ALLERGIES: She has no allergies FAMILY HISTORY: Reviewed and is noncontributory.",
+      "medicines": [
+        {
+          "medication": "Tylenol",
+          "status": "active"
+        },
+        {
+          "medication": "Aleve",
+          "status": "discontinued"
+        },
+        {
+          "medication": "glucosamine/chondroitin",
+          "status": "active"
+        },
+        {
+          "medication": "Tylenol P.M.",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "5. Zyprexa 2.5 mg per day. 6. Accupril 20 mg bid. 7. Metoprolol 15 mg bid. 8. Alprazolam 0.25 mg po tid. 9. Tylenol prn. 10. MOM prn. 11. Loratadine prn. 12. Ipratropium nose drops 0.03% two drops q4 hours. 13. Single dose of ceftriaxone and azithromycin.",
+      "medicines": [
+        {
+          "medication": "Zyprexa 2.5 mg per day",
+          "status": "active"
+        },
+        {
+          "medication": "Accupril 20 mg bid",
+          "status": "active"
+        },
+        {
+          "medication": "Metoprolol 15 mg bid",
+          "status": "active"
+        },
+        {
+          "medication": "Alprazolam 0.25 mg po tid",
+          "status": "active"
+        },
+        {
+          "medication": "Tylenol prn",
+          "status": "active"
+        },
+        {
+          "medication": "MOM prn",
+          "status": "active"
+        },
+        {
+          "medication": "Loratadine prn",
+          "status": "active"
+        },
+        {
+          "medication": "Ipratropium nose drops 0.03% two drops q4 hours",
+          "status": "active"
+        },
+        {
+          "medication": "Single dose of ceftriaxone and azithromycin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "No shortness of breath, chest pain, cough or wheezing. GASTROINTESTINAL: Nausea comes about four to seven days, and she was on the VAD drip this last cycle. GENITOURINARY: Negative. No urgency, frequency or hematuria. CHEST WALL: Chest tenderness secondary to her expanders.",
+      "medicines": [
+        {
+          "medication": "VAD drip",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She is on Lactulose and rifaximin. We need to be more aggressive at this time and increase the dose of lactulose to have 5-6 loose stools and will need to continue with rifaximin 400 mg t.i.d. at this time. There is no evidence of SBP, and she is on antibiotics for that. PROBLEM #3: Ascites. We can adjust the dose of her Lasix and increase it from 40 to 60 mg twice a day.",
+      "medicines": [
+        {
+          "medication": "Lactulose",
+          "status": "active"
+        },
+        {
+          "medication": "Rifaximin",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Chemistries on admission revealed a sodium of 144, potassium 6, BUN 105, and creatinine 10.6. Her chloride was 116 and bicarbonate was 14. Her last C3 level was 48 and C4 level was 6. She was negative for lupus anticoagulant. Her LFTs were unremarkable. ASSESSMENT/PLAN: The patient is a 21-year-old female with a history of lupus nephritis.",
+      "medicines": [
+        {
+          "medication": "Sodium Supplement",
+          "status": "active"
+        },
+        {
+          "medication": "Potassium Supplement",
+          "status": "active"
+        },
+        {
+          "medication": "BUN Lowering Medication",
+          "status": "active"
+        },
+        {
+          "medication": "Creatinine Lowering Medication",
+          "status": "active"
+        },
+        {
+          "medication": "Chloride Supplement",
+          "status": "active"
+        },
+        {
+          "medication": "Bicarbonate Supplement",
+          "status": "active"
+        },
+        {
+          "medication": "ANONYMIZED_US_DRIVER_LICENSE_0 Inhibitor",
+          "status": "active"
+        },
+        {
+          "medication": "ANONYMIZED_US_DRIVER_LICENSE_1 Inhibitor",
+          "status": "active"
+        },
+        {
+          "medication": "Lupus Anticoagulant Medication",
+          "status": "discontinued"
+        },
+        {
+          "medication": "Liver Function Test Medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She has no chest pain, no lightheadedness, no cough, no fever or chills. She does feel fatigued, however. PAST MEDICAL HISTORY: 1. Lupus SLE diagnosed in 1988 with a history of ITP and decreased platelets. 2. History of TIAs. 3. Status post left knee arthroscopy. 4. Status post right ankle surgery for fracture. 5. History of osteoporosis/osteopenia secondary to steroids.",
+      "medicines": [
+        {
+          "medication": "Lupus medication",
+          "status": "active"
+        },
+        {
+          "medication": "Platelet medication",
+          "status": "active"
+        },
+        {
+          "medication": "TIA medication",
+          "status": "active"
+        },
+        {
+          "medication": "Pain medication",
+          "status": "active"
+        },
+        {
+          "medication": "Steroid medication",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "_%#MM#%_ _%#DD#%_, 2006 _%#NAME#%_ _%#NAME#%_, NP _%#STREET#%_ _%#STREET#%_ _%#STREET#%_ _%#STREET#%_, _%#ADDRESS#%_ _%#ADDRESS#%_ _%#CITY#%_, MN _%#55400#%_ Dear Nurse Practitioner _%#NAME#%_: Thank you for the kind referral of your patient, _%#NAME#%_ _%#NAME#%_, who was seen, along with her husband, _%#NAME#%_, for genetic counseling at the Maternal Fetal Medicine Center at Fairview Southdale Hospital on _%#MM#%_ _%#DD#%_, 2006. As you know, Ms. _%#NAME#%_ was referred for discussion of the influence of maternal age on pregnancy outcomes.",
+      "medicines": [
+        {
+          "medication": "%#MEDICATION_0#%",
+          "status": "active"
+        },
+        {
+          "medication": "%#MEDICATION_1#%",
+          "status": "active"
+        },
+        {
+          "medication": "%#MEDICATION_2#%",
+          "status": "discontinued"
+        },
+        {
+          "medication": "%#MEDICATION_3#%",
+          "status": "active"
+        },
+        {
+          "medication": "%#MEDICATION_4#%",
+          "status": "discontinued"
+        }
+      ]
+    },
+    {
+      "context": "DISCHARGE MEDICATIONS: 1. Prograf 1.5 mg p.o. b.i.d 2. Rapamune 3 mg p.o. daily. 3. Prednisone 5 mg p.o. daily. 4. Bactrim SS 1 p.o. 3 times weekly. 5. Valcyte 450 mg p.o. daily. 6. Mycelex troche 20 mg p.o. t.i.d. 7. Lopressor 25 mg p.o. b.i.d. 8. Norvasc 10 mg p.o. daily.",
+      "medicines": [
+        {
+          "medication": "Prograf 1.5 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Rapamune 3 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Prednisone 5 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Bactrim SS 1",
+          "status": "active"
+        },
+        {
+          "medication": "Valcyte 450 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Mycelex troche 20 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Lopressor 25 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Norvasc 10 mg",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "DISCHARGE MEDICATIONS: 1. Plavix 75 mg p.o. daily, lifelong due to an aspirin allergy. 2. Crestor 10 mg p.o. nightly. 3. Wellbutrin XL 300 mg p.o. daily. 4. Detrol LA, the patient reports, she takes 10 mg daily, but I suspect she only takes between 1 mg to 4 mg a day. 5. Lasix 20 mg p.o. daily x5 days. 6. Remicade IV injection every 6 weeks in rheumatology clinic, next injection on _%#MM#%_ _%#DD#%_, 2006.",
+      "medicines": [
+        {
+          "medication": "Plavix 75 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Crestor 10 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Wellbutrin XL 300 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Detrol LA",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix 20 mg",
+          "status": "active"
+        },
+        {
+          "medication": "Remicade",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "The patient has been seen by PT and OT and has found his KinAir bed to be the main barrier limiting his bed mobility. He has been reluctant to do some bed exercises due to the bad situation affecting his IT sores with sliding movement. He has been found to be minimal assist for bed mobility and max assist of two for supine to sit.",
+      "medicines": [
+        {
+          "medication": "KinAir bed",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "My key findings: CC: ALL. HPI: CNS relapse. Exam: No neurologic deficits seen. Assessment and Plan: We have discussed RT with the patient including side effects. At this point chemotherapy will be used with RT held in reserve if needed.",
+      "medicines": [
+        {
+          "medication": "chemotherapy",
+          "status": "active"
+        },
+        {
+          "medication": "radiation therapy (RT)",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "3. Neoral 80 mg p.o. q.8h. 4. CellCept 125 mg p.o. q.i.d. 5. Prednisone 5 mg p.o. b.i.d. 6. Zantac 45 mg p.o. b.i.d. 7. Bactrim SS 80 mg p.o. q.d. 8. Valcyte 250 mg p.o. q.d. 9. Tylenol 325 mg p.o. q.6h. p.r.n. 10. Senna 1 to 4 tablets p.o. b.i.d. p.r.n. Most oral medications are going to be administered per gastrostomy tube.",
+      "medicines": [
+        {
+          "medication": "Neoral 80 mg p.o. q.8h",
+          "status": "active"
+        },
+        {
+          "medication": "CellCept 125 mg p.o. q.i.d",
+          "status": "active"
+        },
+        {
+          "medication": "Prednisone 5 mg p.o. b.i.d",
+          "status": "active"
+        },
+        {
+          "medication": "Zantac 45 mg p.o. b.i.d",
+          "status": "active"
+        },
+        {
+          "medication": "Bactrim SS 80 mg p.o. q.d",
+          "status": "active"
+        },
+        {
+          "medication": "Valcyte 250 mg p.o. q.d",
+          "status": "active"
+        },
+        {
+          "medication": "Tylenol 325 mg p.o. q.6h. p.r.n",
+          "status": "active"
+        },
+        {
+          "medication": "Senna 1 to 4 tablets p.o. b.i.d. p.r.n",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She does have some abnormalities on EKG and I think it would be worthwhile to do echocardiogram to rule out obvious significant embolic source. At this point Plavix has been added to her aspirin which seems entirely appropriate. I would like to do MR angiography as opposed to carotid ultrasound as I believe this will give us better views of her posterior circulation. We will do an MRI brain just to see if there is any obvious acute ischemia.",
+      "medicines": [
+        {
+          "medication": "Plavix",
+          "status": "active"
+        },
+        {
+          "medication": "Aspirin",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "Follow-up was arranged for Dr. _%#NAME#%_ in two weeks and Dr. _%#NAME#%_ in three weeks. DISCHARGE MEDICATIONS: Zithromax 250 mg once a day to end on _%#MMDD2003#%_, Ceftin 500 mg p.o. b.i.d. to add on _%#MMDD2003#%_, Doxazosin 4 mg one half tablet in the morning and one half in the evening, Nexium 40 mg a day, aspirin 81 mg a day, Lasix 40 mg a day, Amiodarone 200 mg p.o. q.d., Guaifenesin LA 600 mg p.o. b.i.d., Astelin nasal spray one each nostril b.i.d., and Quinine Sulfate 260 mg p.o. q.h.s.",
+      "medicines": [
+        {
+          "medication": "Zithromax",
+          "status": "active"
+        },
+        {
+          "medication": "Ceftin",
+          "status": "active"
+        },
+        {
+          "medication": "Doxazosin",
+          "status": "active"
+        },
+        {
+          "medication": "Nexium",
+          "status": "active"
+        },
+        {
+          "medication": "aspirin",
+          "status": "active"
+        },
+        {
+          "medication": "Lasix",
+          "status": "active"
+        },
+        {
+          "medication": "Amiodarone",
+          "status": "active"
+        },
+        {
+          "medication": "Guaifenesin LA",
+          "status": "active"
+        },
+        {
+          "medication": "Astelin nasal spray",
+          "status": "active"
+        },
+        {
+          "medication": "Quinine Sulfate",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "HISTORY OF PRESENT ILLNESS: The patient is a 66-year-old female. In 1997 she developed a stage IB grade 1 endometrial adenocarcinoma. She underwent a total abdominal hysterectomy, bilateral salpingo- oophorectomy, pelvic and periaortic lymphadenectomy by Dr. _%#NAME#%_.",
+      "medicines": []
+    },
+    {
+      "context": "Of note, the patient did receive Ativan in the hospital and he became very agitated and restless following administration of this. Dr. _%#NAME#%_, Minnesota Oncology, will follow patient's CEA level. DIET: Recommend clear to soft diet as tolerated, given his partial colonic obstruction.",
+      "medicines": [
+        {
+          "medication": "Ativan",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "BNP 643. Chest x-ray dated _%#DDMM2005#%_ shows normal heart size. Lungs are clear. Echocardiogram shows ejection fraction of 20%, RVSP 24 + RA. PHYSICAL EXAMINATION: He is afebrile, SpO2 98% on room air, blood pressure 87/67, pulse 100.",
+      "medicines": [
+        {
+          "medication": "BNP 643",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "3. Darbepoetin 25 mcg injection subcutaneous q. week. 4. Colace 100 mg p.o. b.i.d. 5. Imdur 30 mg p.o. q day. hold if SBP less than 85 6 Levothyroxine 75 mcg p.o. daily. 7. Lorazepam 0.5 to 1 mg p.o. daily p.r.n. anxiety. 8. Remeron 50 mg p.o. q h.s. 9. I caps p.o. daily.",
+      "medicines": [
+        {
+          "medication": "Darbepoetin",
+          "status": "active"
+        },
+        {
+          "medication": "Colace",
+          "status": "active"
+        },
+        {
+          "medication": "Imdur",
+          "status": "active"
+        },
+        {
+          "medication": "Levothyroxine",
+          "status": "active"
+        },
+        {
+          "medication": "Lorazepam",
+          "status": "active"
+        },
+        {
+          "medication": "Remeron",
+          "status": "active"
+        },
+        {
+          "medication": "I caps",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "She has lupus nephritis. She was previously treated with Imuran and prednisone, Cytoxan and prednisone and high-dose Imuran and prednisone. Previous treatments have all been ineffective. She started CellCept _%#MM#%_ _%#DD#%_, 2002, and has had some improvement in C3 and C4 since. She was well until approximately 5 days prior to admit. At that time, she was in Europe at the end of a 2-week choir trip and she began to have emesis x3.",
+      "medicines": [
+        {
+          "medication": "Imuran",
+          "status": "active"
+        },
+        {
+          "medication": "prednisone",
+          "status": "active"
+        },
+        {
+          "medication": "Cytoxan",
+          "status": "active"
+        },
+        {
+          "medication": "high-dose Imuran",
+          "status": "active"
+        },
+        {
+          "medication": "CellCept",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "context": "NECK: Supple. LYMPH NODES: No anterior cervical, posterior cervical, supraclavicular, axillary or inguinal adenopathy. LUNGS: Normal breath sounds to auscultation and percussion. No rhonchi or rales. BACK: No CVA or vertebral tenderness. HEART: Regular rhythm without murmurs or gallops. BREASTS: No masses, tenderness, skin, nipple or areolar changes. ABDOMEN: Without hepatosplenomegaly, masses, or tenderness.",
+      "medicines": []
+    }
+  ]
