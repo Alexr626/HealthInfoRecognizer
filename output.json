@@ -1,0 +1,25 @@
+{
+    "context": "2. Aspirin 81 mg p.o. q. day. 3. Lisinopril 20 mg p.o. q. day. 4. Metoprolol 50 mg p.o. b.i.d. 5. Niacin OTC 100 mg p.o. b.i.d. 6. He is now on IV diltiazem as well. He has not received heparin. REVIEW OF SYSTEMS: Complete review of systems was performed and is negative except as noted above in history of present illness.",
+    "medicines": [
+      {
+        "medication": "Aspirin",
+        "status": "active"
+      },
+      {
+        "medication": "Lisinopril",
+        "status": "active"
+      },
+      {
+        "medication": "Metoprolol",
+        "status": "active"
+      },
+      {
+        "medication": "Niacin",
+        "status": "active"
+      },
+      {
+        "medication": "Diltiazem",
+        "status": "active"
+      }
+    ]
+  }

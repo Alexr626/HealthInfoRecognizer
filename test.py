@@ -20,8 +20,10 @@ data.head()
 
 import random
 
-# Select a random subset of the 'Context' column
-random_subset = data['Context'].sample(frac=0.1)
+from sklearn.model_selection import train_test_split
+
+# Split the 'Context' column into training and testing data
+train_data, test_data = train_test_split(data['Context'], test_size=0.2, random_state=42)
 
 # Iterate over the random subset and run the code
 for context in random_subset:
@@ -51,7 +53,8 @@ for context in random_subset:
                             },
                             "status": {
                                 "type": "string",
-                                "description": "Status of the medication"
+                                "description": "Status of the medication",
+                                "enum": ["active", "discontinued"]
                             }
                         },
                         "required": ["medication", "status"]
@@ -63,7 +66,7 @@ for context in random_subset:
     }]
 
     response = openai.ChatCompletion.create(
-                model="gpt-4-0613", messages=[
+                model="gpt-3.5-turbo-0613", messages=[
                     {
                         "role": "system", "content": system_message}, {
                         "role": "assistant", "content": assistant_message},
@@ -74,11 +77,21 @@ for context in random_subset:
     # Get the response
     response_json = response.to_dict()
     function_call_arguments = response_json['choices'][0]['message']['function_call']['arguments']
-    
-    # Print the response in a pretty json format
+    print(function_call_arguments)
+    # Load function_call_arguments as a json rather than a string
     import json
-    medicines = function_call_arguments.get('medicines', [])
-    for medicine in medicines:
+    function_call_arguments = json.loads(function_call_arguments)
+    print(function_call_arguments)
+    print(context)
+    for medicine in function_call_arguments['medicines']:
+        
         print(f"Medication: {medicine['medication']}, Status: {medicine['status']}")
+    # Print the response in a pretty json format
+    #
+    # Save the output with "context, and then medicines" to a json file
+    output = {"context": context, "medicines": function_call_arguments['medicines']}
+    with open('output.json', 'w') as json_file:
+        json.dump(output, json_file)
+    
     
 
