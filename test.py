@@ -1,8 +1,8 @@
 import openai
 import os 
-openai.api_key = os.getenv('USSO_OFFLINE_TOKEN')
+
 import pandas as pd
-openai.api_base = "https://genai-api.uberinternal.com/v1"
+
 column_names = ["Abbreviation", "Full_Form", "Abbreviation_In_Context", "Start_Index", "End_Index", "Category", "Context"]
 
 # Trying to load the data with 'ISO-8859-1' encoding
